@@ -2,24 +2,21 @@
   "ecs7": true,
   "runtimeVersion": "7",
   "display": {
-    "title": "M1D DCL 3D-Anim",
-    "description": "template scene with SDK7",
+    "title": "Creators Academy: WS5 - Multi-Action Animations",
+    "description": "An example scene demonstrating how to manage multiple animation states (Idle, Proximity, Click) on a single object using the SDK 7.",
     "navmapThumbnail": "images/scene-thumbnail.png",
     "favicon": "favicon_asset"
   },
   "owner": "",
   "contact": {
-    "name": "SDK",
+    "name": "MrJStickel",
     "email": ""
   },
   "main": "bin/index.js",
   "tags": [],
   "scene": {
     "parcels": [
-      "0,0",
-      "1,0",
-      "0,1",
-      "1,1"
+      "0,0"
     ],
     "base": "0,0"
   },
